@@ -4,6 +4,6 @@ Je suis **Ndongo Mamoudou**, étudiant passionné par le développement, le Big 
 
 🎯 À la recherche d'une alternance pour mon Master 2 à partir de septembre 2024, je suis motivé par l'apprentissage constant et la résolution de défis technologiques.
 
-💼 [Consultez mon portfolio](https://github.com/NdongoMamoudou/portfolio) pour découvrir mes projets, micro-projets, compétences et réalisations.
+💼 [Consultez mon portfolio](https://portfolio-ndongo.netlify.app/) pour découvrir mes projets, micro-projets, compétences et réalisations.
 
 Merci de visiter mon profil ! 🚀
